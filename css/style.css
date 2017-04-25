@@ -90,3 +90,22 @@ footer {
   padding: 10px 0px 5px 0px;
   font-size: 14pt;
 }
+.news{
+  text-align : center;
+  display: inline-block;
+  background-color: #edf2c5;
+  text-align: center;
+}
+.context{
+  text-align: center;
+  float: inherit;
+	font-family: ArialMT Regular, sans-serif;
+	font-size: 12px;
+	color: #7D7D7D;
+}
+.stores{
+  text-align : center;
+}
+.maps{
+  text-align : center;
+}
