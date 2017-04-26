@@ -91,17 +91,40 @@ footer {
   font-size: 14pt;
 }
 .news{
-  text-align : center;
-  display: inline-block;
-  background-color: #edf2c5;
+  margin: 10px 0px 40px 0px;
+  align-items: center;
+
   text-align: center;
 }
-.context{
+.news div{
   text-align: center;
-  float: inherit;
+  border-radius: 3px;
+  margin:0 auto;
+  width: 630px;
+  background-color: #edf2c5;
+  align-self: center;
 	font-family: ArialMT Regular, sans-serif;
 	font-size: 12px;
-	color: #7D7D7D;
+}
+
+
+.left{
+  width: 50px;
+  padding-left: 50px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #9d0001;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.right{
+    width: 600px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: #333333;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
 }
 .stores{
   text-align : center;
