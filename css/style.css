@@ -91,18 +91,28 @@ footer {
   font-size: 14pt;
 }
 
-.bcr {
-  background-color: #f1ecd9;
-  border-radius: 3px;
+.pic {
+  margin: auto;
+  padding: 10px;
+  display: block;
+  position: relative;
+  align-items: center;
+  text-align: center;
+}
+
+.pic img {
+  margin: auto;
+  display: inline-block;
+  align-items: center;
 }
 
 .news{
   margin: 10px 0px 40px 0px;
   align-items: center;
-
   text-align: center;
 }
 .news div{
+  padding: 10px;
   text-align: center;
   border-radius: 3px;
   margin:0 auto;
@@ -112,7 +122,6 @@ footer {
 	font-family: ArialMT Regular, sans-serif;
 	font-size: 12px;
 }
-
 
 .left{
   width: 50px;
