@@ -46,7 +46,7 @@ footer {
   padding: 0px;
   margin: 0px;
   background-color: #aa0000;
-  height: 30px;
+  height: 60px;
   text-align: center;
 }
 .menu {
@@ -55,16 +55,18 @@ footer {
 }
 .menu li{
   background-color: #aa0000;
-  color: #eee000;
   display: inline-block;
   list-style: none;
 }
 .menu a{
   margin: 0px 15px;
   font-family: "Arial Black";
-  font-size: 16px;
+  font-size: 20px;
   color:#eeeeee;
   text-decoration: none;
+}
+.menu img{
+  height: 50px;
 }
 
 .artart {
